@@ -22,4 +22,4 @@ def bubble_sort(list_to_sort):
         # sleep(.5)
     return list_to_sort
 
-# print(bubble_sort(num_list))
+print(bubble_sort(num_list))
